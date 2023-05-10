@@ -1,0 +1,8 @@
+.navbar { 
+    background-color: #B1B1B1;
+}
+
+.toolbar { 
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
