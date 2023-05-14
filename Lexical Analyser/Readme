@@ -1,1 +1,22 @@
+# Lexical Analyser
 
+A new MERN project.
+
+## Getting Started
+
+A lexical analyzer is a program that reads a stream of input characters and breaks it up into tokens. Each token is a meaningful unit of the input, such as a keyword, identifier, operator, or constant.
+
+To make a lexical analyzer on React and Node.js, you will need to use the following group vocabulary:
+
+Keywords: Words that have a special meaning in the programming language, such as if, else, and while.
+Identifiers: Names of variables, functions, and classes.
+Operators: Symbols that represent mathematical or logical operations, such as +, -, *, and /.
+Constants: Numbers, strings, and boolean values.
+Once you have defined the tokens that your lexical analyzer will recognize, you can write the code that will read the input characters and break them up into tokens. The code will typically use a state machine to keep track of the current state of the lexical analyzer and to determine which token is being processed.
+
+The following is an example of a lexical analyzer that recognizes the following tokens:
+
+Keywords: if, else, while, for, switch, case, default
+Identifiers: any sequence of letters, digits, and underscores that does not start with a digit
+Operators: +, -, *, /, %, ==, !=, <, >, <=, >=, &&, ||, !
+Constants: integers, floats, and strings
