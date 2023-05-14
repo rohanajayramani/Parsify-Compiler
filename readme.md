@@ -6,3 +6,5 @@ Project By :
  * Devansh
  * Advik
  * Vansh ( @vansh-bhatia )
+ * Mihir Tripathy
+ * Aman Agarwal
