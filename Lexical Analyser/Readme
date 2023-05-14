@@ -19,4 +19,4 @@ The following is an example of a lexical analyzer that recognizes the following 
 Keywords: if, else, while, for, switch, case, default
 Identifiers: any sequence of letters, digits, and underscores that does not start with a digit
 Operators: +, -, *, /, %, ==, !=, <, >, <=, >=, &&, ||, !
-Constants: integers, floats, and strings
+Constants: integers, floats, and strings 
