@@ -8,3 +8,7 @@ Project By :
  * Vansh ( @vansh-bhatia )
  * Mihir Tripathy
  * Aman Agarwal
+ * Kanav Malhotra
+ * Jasmann Singh Saini
+ * Pratyaksh Bhootra
+ * Anshika Nigam
